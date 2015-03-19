@@ -1,0 +1,38 @@
+﻿@model Quiz.Models.QuestionsList
+@{
+    ViewBag.Title = "Home Page";
+
+}
+
+<div class="jumbotron">
+    <h1>Quiz</h1>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @using (Html.BeginForm())
+        {
+            for (var i = 0; i < Model.questions.Count; i++)  
+            {
+                <div>
+                    <h3> @Html.Raw(Model.questions[i].Question)</h3>
+                    @Html.HiddenFor(model => Model.questions[i].ActualAnwser)
+                    <div class="radio">
+                        <label>
+                            @Html.RadioButtonFor(model => Model.questions[i].Anwser,"true")
+                            True
+                        </label>
+                    </div>
+                    <div class="radio">
+                        <label>
+                            @Html.RadioButtonFor(model => Model.questions[i].Anwser,"false")
+                            False
+                        </label>
+                    </div>
+                </div>}
+
+                <input type="submit" value="Results" />
+        }
+
+    </div>
+</div>

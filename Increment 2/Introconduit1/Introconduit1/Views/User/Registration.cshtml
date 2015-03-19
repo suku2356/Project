@@ -1,0 +1,38 @@
+﻿@model Introconduit1.Models.UserModel
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using(Html.BeginForm())
+{
+@Html.ValidationSummary(true,"create user failed ,checkyour fields:");
+  <div>
+    <fieldset >
+        <legend>create new user</legend>
+        
+    
+
+        
+            @Html.LabelFor(u=>u.Email)
+       
+        
+            @Html.TextBoxFor(u=>u.Email)
+            @Html.ValidationMessageFor(u=>u.Email)
+        
+       
+            @Html.LabelFor(u=>u.Password)
+       
+        
+            @Html.PasswordFor(u=>u.Password)
+            @Html.ValidationMessageFor(u=>u.Password)
+       
+        <input type="submit" value="create user" />
+
+        
+           
+        
+    </fieldset>
+     
+</div>
+}
+

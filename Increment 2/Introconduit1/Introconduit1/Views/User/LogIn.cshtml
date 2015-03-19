@@ -1,0 +1,25 @@
+﻿@model Introconduit1.Models.UserModel
+@{
+    ViewBag.Title = "LogIn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>LogIn</h2>
+@using(Html.BeginForm())
+{
+@Html.ValidationSummary(true,"login failed.check details")
+<div>
+    <fieldset>
+        <legend>login form</legend>
+        @Html.LabelFor(u=>u.Email)
+        @Html.TextBoxFor(u=>u.Email)
+            @Html.ValidationMessageFor(u=>u.Email)
+       
+        @Html.LabelFor(u=>u.Password)
+        @Html.PasswordFor(u=>u.Password)
+            @Html.ValidationMessageFor(u=>u.Password)
+            <input type="submit"value="Log In" />
+        
+    </fieldset>
+</div>
+}

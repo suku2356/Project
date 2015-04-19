@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>BotScout.Net</id>
+    <version>0.5.0</version>
+    <title>Bot Scout Api for .Net</title>
+    <authors>Steen F. Tøttrup</authors>
+    <owners>Steen F. Tøttrup</owners>
+    <licenseUrl>http://botscout.codeplex.com/license</licenseUrl>
+    <projectUrl>http://botscout.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library that is using Bot Scout's Api to help recognize known spammers based on e-mail addresses, usernames and ip addresses.</description>
+  </metadata>
+</package>

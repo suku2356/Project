@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MVCForum</id>
+    <version>1.4.5.40417</version>
+    <title>ASP.NET MVC Forum</title>
+    <authors>Steen F. Tøttrup</authors>
+    <owners>Steen F. Tøttrup</owners>
+    <licenseUrl>http://mvcforum.codeplex.com/license</licenseUrl>
+    <projectUrl>http://mvcforum.codeplex.com/</projectUrl>
+    <iconUrl>https://si0.twimg.com/profile_images/1523254246/mvcforum-ikon48_bigger.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A complete forum solution for ASP.NET MVC 3+ applications.</description>
+    <language>en-GB</language>
+    <dependencies>
+      <dependency id="EntityFramework" version="6.1.0" />
+      <dependency id="Lucene.Net" version="3.0.0" />
+      <dependency id="StopForumSpam.Net" version="0.5.0" />
+      <dependency id="BotScout.Net" version="0.5.0" />
+      <dependency id="MVCThemes" version="0.3.3" />
+      <dependency id="MVCBootstrap" version="0.7.3" />
+      <dependency id="HtmlAgilityPack" version="1.4.6" />
+    </dependencies>
+  </metadata>
+</package>

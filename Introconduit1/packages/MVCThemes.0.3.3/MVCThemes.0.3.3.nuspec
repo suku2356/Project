@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MVCThemes</id>
+    <version>0.3.3</version>
+    <title>MVC Themes</title>
+    <authors>Steen F. Tøttrup</authors>
+    <owners>Steen F. Tøttrup</owners>
+    <licenseUrl>http://mvcthemes.codeplex.com/license</licenseUrl>
+    <projectUrl>http://mvcthemes.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Easy implementation of themes in ASP.NET MVC applications.</description>
+    <language>en-GB</language>
+  </metadata>
+</package>

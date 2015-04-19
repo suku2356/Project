@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MVCBootstrap</id>
+    <version>0.7.3.31109</version>
+    <title>MVC Bootstrap</title>
+    <authors>Steen F. Tøttrup</authors>
+    <owners>Steen F. Tøttrup</owners>
+    <licenseUrl>http://mvcbootstrap.codeplex.com/license</licenseUrl>
+    <projectUrl>http://mvcbootstrap.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Some of the things you always need when building a MVC application. Dependendy injection (Ninject implementation included), data access (Entity Framework implementation included) with a repository pattern, including simple role and membership providers.</description>
+    <language>en-GB</language>
+    <dependencies>
+      <dependency id="EntityFramework" version="5.0.0" />
+      <dependency id="Newtonsoft.Json" version="4.5.0" />
+      <dependency id="Ninject.MVC3" version="[3.0.0, 3.0.1]" />
+      <dependency id="SimpleLocalisation" version="0.9.6" />
+    </dependencies>
+  </metadata>
+</package>

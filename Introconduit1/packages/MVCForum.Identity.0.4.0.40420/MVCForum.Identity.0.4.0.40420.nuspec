@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MVCForum.Identity</id>
+    <version>0.4.0.40420</version>
+    <title>ASP.NET Identity for MVC Forum</title>
+    <authors>Steen F. Tøttrup</authors>
+    <owners>Steen F. Tøttrup</owners>
+    <licenseUrl>http://mvcforum.codeplex.com/license</licenseUrl>
+    <projectUrl>http://mvcforum.codeplex.com/</projectUrl>
+    <iconUrl>https://si0.twimg.com/profile_images/1523254246/mvcforum-ikon48_bigger.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Classes needed for using ASP.NET's Identity with MVC Forum.</description>
+    <releaseNotes>This is an early alpha release, so please do not download and use this for anything else than testing the new features.</releaseNotes>
+    <language>en-GB</language>
+    <dependencies>
+      <dependency id="MVCForum" version="1.4.5.40417" />
+      <dependency id="Microsoft.AspNet.Identity.EntityFramework" version="2.0.0" />
+      <dependency id="Microsoft.AspNet.Mvc" version="5.0.0" />
+    </dependencies>
+  </metadata>
+</package>

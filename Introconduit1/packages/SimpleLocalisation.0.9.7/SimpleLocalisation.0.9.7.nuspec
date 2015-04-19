@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SimpleLocalisation</id>
+    <version>0.9.7</version>
+    <title>Simple Localisation</title>
+    <authors>Steen F. Tøttrup, Niels Kühnel</authors>
+    <owners>Steen F. Tøttrup, Niels Kühnel</owners>
+    <licenseUrl>http://localisation.codeplex.com/license</licenseUrl>
+    <projectUrl>http://localisation.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A localisation framework that works like an advance String.Format method. Write your own text source (Xml file, database, etc.) and your own context provider (web, workstation, etc.), and use the simple syntax in your texts, and let the framework handle the rest.</description>
+    <language>en-GB</language>
+  </metadata>
+</package>

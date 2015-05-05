@@ -11,6 +11,13 @@ namespace Introconduit1.Models {
 		public DateTime LastLoginDate { get; set; }
 	}
 
+    public class Quiz
+    {
+        public int Id { get; set; }
+        public string Question { get; set; }
+        public bool Anwser { get; set; } 
+    }
+
 	public class ApplicationDbContext : IdentityDbContext<ApplicationUser> {
 		public ApplicationDbContext()
 			: base("DefaultConnection") {

@@ -26,5 +26,11 @@ namespace Introconduit1.Controllers
 
             return View();
         }
+
+        public ActionResult Video()
+        {
+            ViewBag.Message = " Videos Page";
+            return View();
+        }
     }
 }

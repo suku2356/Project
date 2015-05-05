@@ -60,4 +60,12 @@ namespace Introconduit1.Models
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
     }
+
+    public class QuizModel
+    {
+        public int Id { get; set; }
+        public string Question { get; set; }
+        public bool? Anwser { get; set; }
+        public bool? ActualAnwser { get; set; }
+    }
 }

@@ -115,120 +115,366 @@ C:\Users\vishnu\Documents\Introconduit1\Introconduit1\bin\Microsoft.Owin.Securit
 C:\Users\vishnu\Documents\Introconduit1\Introconduit1\obj\Debug\Introconduit1.csprojResolveAssemblyReference.cache
 C:\Users\vishnu\Documents\Introconduit1\Introconduit1\obj\Debug\Introconduit1.dll
 C:\Users\vishnu\Documents\Introconduit1\Introconduit1\obj\Debug\Introconduit1.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Introconduit1.dll.config
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Introconduit1.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Introconduit1.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Antlr3.Runtime.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CodeKicker.BBCode.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Commons.Web.Mvc.PrecompiledViews.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CreativeMinds.Security.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\EntityFramework.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\HtmlAgilityPack.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\ICSharpCode.SharpZipLib.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Joel.Net.Akismet.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Lucene.Net.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\markdownsharp.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.AddOns.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.Core.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.Web.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCThemes.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Newtonsoft.Json.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.Web.Common.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Owin.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\RestSharp.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\SimpleAuthentication.Core.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\SimpleAuthentication.Mvc.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\simplelocalisation.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\simplelocalisation.web.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Helpers.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Mvc.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Optimization.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Razor.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.WebPages.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\WebActivator.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\WebActivatorEx.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\WebGrease.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\EntityFramework.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\HtmlAgilityPack.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\HtmlAgilityPack.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Lucene.Net.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Lucene.Net.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.AddOns.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.Core.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\mvcForum.Web.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCThemes.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\MVCThemes.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.Web.Common.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.Web.Common.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\simplelocalisation.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\simplelocalisation.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\simplelocalisation.web.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\simplelocalisation.web.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Helpers.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Mvc.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Optimization.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.Razor.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.WebPages.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Newtonsoft.Json.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Antlr3.Runtime.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\obj\Debug\Introconduit1.dll
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\obj\Debug\Introconduit1.pdb
-C:\Users\vishnu\Documents\Visual Studio 2013\Projects\Introconduit1\Introconduit1\obj\Debug\Introconduit1.csprojResolveAssemblyReference.cache
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Introconduit1.dll.config
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Introconduit1.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Introconduit1.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Antlr3.Runtime.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CodeKicker.BBCode.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Commons.Web.Mvc.PrecompiledViews.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.Security.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\HtmlAgilityPack.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Joel.Net.Akismet.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Lucene.Net.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\markdownsharp.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.AddOns.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Core.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Web.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCThemes.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Newtonsoft.Json.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Common.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Owin.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\RestSharp.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\SimpleAuthentication.Core.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\SimpleAuthentication.Mvc.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.web.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Helpers.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Mvc.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Optimization.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Razor.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\WebActivator.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\WebActivatorEx.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\WebGrease.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\HtmlAgilityPack.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\HtmlAgilityPack.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Lucene.Net.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Lucene.Net.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.AddOns.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Core.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Web.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCThemes.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\MVCThemes.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Common.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Common.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.web.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.web.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Helpers.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Mvc.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Optimization.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Razor.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Newtonsoft.Json.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Antlr3.Runtime.pdb
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\obj\Debug\Introconduit1.csprojResolveAssemblyReference.cache
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\obj\Debug\Introconduit1.dll
+C:\Users\Shyam RAJ\Desktop\Introconduit1\Introconduit1\Introconduit1\obj\Debug\Introconduit1.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Introconduit1.dll.config
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Introconduit1.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Introconduit1.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Antlr3.Runtime.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CodeKicker.BBCode.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Commons.Web.Mvc.PrecompiledViews.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.Security.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\HtmlAgilityPack.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\ICSharpCode.SharpZipLib.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Joel.Net.Akismet.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Lucene.Net.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\markdownsharp.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Web.Infrastructure.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.AddOns.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Core.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Web.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCThemes.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Newtonsoft.Json.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Common.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Owin.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\RestSharp.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\SimpleAuthentication.Core.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\SimpleAuthentication.Mvc.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.web.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Helpers.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Mvc.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Optimization.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Razor.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\WebActivator.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\WebActivatorEx.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\WebGrease.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\HtmlAgilityPack.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\HtmlAgilityPack.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Lucene.Net.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Lucene.Net.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.AddOns.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Core.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\mvcForum.Web.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCThemes.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\MVCThemes.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Common.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Common.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.web.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\simplelocalisation.web.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Helpers.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Mvc.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Optimization.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Razor.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Newtonsoft.Json.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Antlr3.Runtime.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\obj\Debug\Introconduit1.csprojResolveAssemblyReference.cache
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\obj\Debug\Introconduit1.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\obj\Debug\Introconduit1.pdb
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Net.Http.Formatting.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Http.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Http.WebHost.dll
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Net.Http.Formatting.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Http.xml
+E:\workspace\Styfox\source\dotnet\studentprojects\Introconduit1f\Introconduit1\Introconduit1\Introconduit1\bin\System.Web.Http.WebHost.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Introconduit1.dll.config
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Introconduit1.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Introconduit1.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Antlr3.Runtime.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CodeKicker.BBCode.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Commons.Web.Mvc.PrecompiledViews.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CreativeMinds.Security.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\EntityFramework.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\HtmlAgilityPack.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Joel.Net.Akismet.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Lucene.Net.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\markdownsharp.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.AddOns.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.Core.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.Web.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCThemes.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Newtonsoft.Json.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.Web.Common.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Owin.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\RestSharp.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\SimpleAuthentication.Core.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\SimpleAuthentication.Mvc.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\simplelocalisation.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\simplelocalisation.web.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Net.Http.Formatting.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Helpers.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Http.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Http.WebHost.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Mvc.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Optimization.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Razor.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.WebPages.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\WebActivator.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\WebActivatorEx.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\WebGrease.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\ApplicationBoilerplate.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CreativeMinds.BotScout.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\CreativeMinds.StopForumSpam.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\EntityFramework.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\EntityFramework.SqlServer.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\HtmlAgilityPack.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\HtmlAgilityPack.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Lucene.Net.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Lucene.Net.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.EntityFramework.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCBootstrap.Ninject.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.AddOns.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.Core.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.DataProvider.EntityFramework.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.SearchProvider.Lucene.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\mvcForum.Web.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCThemes.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\MVCThemes.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.Web.Common.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.Web.Common.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Ninject.Web.Mvc.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\simplelocalisation.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\simplelocalisation.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\simplelocalisation.web.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\simplelocalisation.web.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Net.Http.Formatting.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Http.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Http.WebHost.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Helpers.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Mvc.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Optimization.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.Razor.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.WebPages.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\System.Web.WebPages.Razor.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Newtonsoft.Json.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Antlr3.Runtime.pdb
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Debug\Introconduit1.csprojResolveAssemblyReference.cache
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Debug\Introconduit1.dll
+C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Debug\Introconduit1.pdb

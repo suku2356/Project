@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbDacFx path="C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Release\AutoScripts\mvcForum.DataProvider.MainDB_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <IisApp path="C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\vishnu\Desktop\Introconduit1\Introconduit1\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>

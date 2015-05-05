@@ -1,0 +1,104 @@
+﻿@model IEnumerable<ContosoUniversity.ViewModels.EnrollmentDateGroup>
+
+@{
+    ViewBag.Title = "Student Body Statistics";
+}
+
+<h2>Student Body Statistics</h2>
+
+<table>
+    <tr>
+        <th>
+            Enrollment Date
+        </th>
+        <th>
+            Students
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentDate)
+            </td>
+            <td>
+                @item.StudentCount
+            </td>
+        </tr>
+    }
+</table>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: lightgrey;
+        }
+
+        p {
+            color: blue;
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 0px;
+        }
+
+        section {
+            width: 350px;
+            float: left;
+            padding: 10px;
+        }
+
+        footer {
+            background-color: black;
+            color: white;
+            clear: both;
+            text-align: center;
+            padding: 5px;
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Useful Books </h1>
+    </header>
+    <p>
+        <a href="http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?s=books&ie=UTF8&qid=1426441002&sr=1-1&keywords=introvert" target="_blank">
+            Purchase Link
+            <abbr title=" 'Quiet: The Power of Introverts in a World That Can't Stop Talking'
+Demonstrates how introverted people are misunderstood and undervalued in today's culture, charting the rise of extrovert ideology">
+                <img src="http://www.desertestateplanninglawblog.com/uploads/image/Quiet%20Book%20Cover.jpg" alt="Quiet" style=";width:145px;height:200px;border:0">
+            </abbr>
+        </a>
+    </p>
+    <p>
+        <a href="http://www.amazon.com/Introvert-Advantage-Thrive-Extrovert-World/dp/0761123695/ref=sr_1_2?s=books&ie=UTF8&qid=1426441002&sr=1-2&keywords=introvert" target="_blank">
+            Purchase Link
+            <abbr title="The Introvert Advantage dispels introverts' belief that something is wrong with them and instead helps them recognize their inner strengths-their analytical skills, ability to think outside the box, and strong powers of concentration. It helps readers understand introversion and shows them how to determine where they fall on the introvert/extrovert continuum">
+                <img src="
+http://photo.goodreads.com/books/1170358407l/49322.jpg" alt="Introvert Advantage" style="width:145px;height:200px;border:0">
+            </abbr>
+        </a>
+    </p>
+    <br>
+    <p>
+        <a href="http://www.amazon.com/Being-You-How--Guide-Introverts-ebook/dp/B00SK6OPHA/ref=sr_1_5?s=books&ie=UTF8&qid=1426441002&sr=1-5&keywords=introvert" target="_blank">Purchase Link<abbr title="Being You: A How-To Guide for Introverts[Kindle Edition]"><img src="http://d.gr-assets.com/books/1423552796l/24711465.jpg" alt="Being You-by Glenn McCollins" style="width:145px;height:200px;border:0"></abbr></a>
+    </p>
+    <br>
+<pre>
+<a href="http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_10?s=books&ie=UTF8&qid=1426441002&sr=1-10&keywords=introvert" target="_blank">Purchase Link<abbr title="Thinking, Fast and Slow.
+Major New York Times bestseller.
+Winner of the National Academy of Sciences Best Book Award in 2012."><img src="http://www.brainpickings.org/wp-content/uploads/2011/10/thinkingfastandslow.jpg" alt="Thinking, Fast and Slow-by Daniel Kahneman" style="width:145px;height:200px;border:0"></abbr></a>
+</p>
+<p>
+<a href="http://www.amazon.com/Introvert-Unleasing-Power-Internal-Genius-ebook/dp/B00RI1GBA2/ref=sr_1_15?s=books&ie=UTF8&qid=1426447936&sr=1-15&keywords=introvert" target="_blank"> Purchase Link <abrr title="The author helps you understand how introversion affects your life and gives good suggestions for managing difficult situations. Recommended for all introverts."><img src="http://ecx.images-amazon.com/images/I/4175UO9zKoL._AA160_.jpg" alt="Introvert - Unleasing The Power Of Internal Genius" style="width:145px;height:200px;border:0"></abbr></a>
+</p>
+<footer>
+Copyright © IntroConduit.com
+</footer>
+
+</body>
+</html>

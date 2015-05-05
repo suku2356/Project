@@ -12,6 +12,8 @@ namespace Introconduit1.MvcForumIdentity {
 
 		public DbSet<ApplicationUser> Users { get; set; }
 		public DbSet<IdentityRole> Roles { get; set; }
+        public DbSet<Quiz> Quiz { get; set; }
+
 
 		protected override void OnModelCreating(DbModelBuilder modelBuilder) {
 			base.OnModelCreating(modelBuilder);

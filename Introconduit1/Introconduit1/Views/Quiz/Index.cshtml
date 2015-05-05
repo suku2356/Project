@@ -1,0 +1,149 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    .jumbotron {
+        background: rgba(255, 106, 0 , 0.1);
+    }
+    .row {
+        background: rgba(255, 106, 0, 0.1);
+    }
+    .result {
+        background: rgba(255, 255, 255, 0.2);
+    }
+
+</style>
+
+<div class="jumbotron">
+    <h1>Quiz</h1>
+</div>
+
+
+<div class="row" id="quiz">
+    <div class="col-md-12" id="quizlist">
+         
+    </div>
+
+    <input type="button" class="btn" value="Submit" id="submitAnswers"/>
+</div>
+<div id="result" style="display:none">
+
+    <h2>
+
+        Congratulations - you have completed the Quiet Quiz: Are You an Introvert or an Extrovert?
+    </h2>
+
+    <p><b>Your personality profile: <span id="grade"></span></b> E/I (I = Introvert. E =Extrovert)</p>
+    <p>
+        <b>
+            Your Personality Profile:
+
+            I = Introvert. If you answered the majority of the questions true, you're probably an
+
+            introvert.
+        </b>Given the choice, you'll devote your social energy to the people you care about most,
+
+        preferring a glass of wine with a close friend to a party full of strangers. You think before you speak,
+
+        and relish solitude. You feel energized when focusing deeply on a subject or activity that really
+
+        interests you. You have an active inner life, and are at your best when you tap into its riches.
+    </p>
+    <p>
+        <b>
+            E/I = Ambivert. If you answered the questions evenly, true and false, you're probably
+
+            an ambivert
+        </b> - meaning that you fall smack in the middle of the introvert-extrovert spectrum. In
+
+        many ways, ambiverts have the best of both worlds, able to tap into either pole as needed.
+    </p>
+    <p>
+        <b>
+            E = Extrovert. If you answered the majority of the questions false, you’re probably an
+
+            extrovert.
+        </b> You relish social life, and are energized by interacting with friends and strangers alike.
+
+        You are assertive, go-getting, and able to seize the day. You're great at thinking on your feet, and are
+
+        relatively comfortable with conflict. You are actively engaged in the world around you, and are at
+
+        your best when you tap into its energy.
+    </p>
+    <p>
+        Why does it matter where you fall on the introvert-extrovert spectrum? Because introversion and
+
+        extroversion are at the heart of human nature. And when you make life choices that are congruent
+
+        with your temperament, you unleash vast stores of energy.
+    </p>
+    <p>
+        Conversely, when you spend too much time battling your own nature, the opposite happens—you
+
+        deplete yourself. Too many people live lives that don't suit them—introverts with frenetic social
+
+        schedules, extroverts with jobs that require them to sit in front of their computers for hours at a
+
+        stretch. We all have to do things that don't come naturally—some of the time. But it shouldn't be all
+
+        the time. It shouldn't even be most of the time.
+    </p>
+    <h3>
+        (Remember, though, that no one is all introvert or all extrovert. Introverts attend wild
+
+        parties, and extroverts curl up with their favorite books. As the psychologist Carl Jung
+
+        put it, "There is no such thing as a pure extrovert or a pure introvert. Such a man
+
+        would be in the lunatic asylum.")
+    </h3>
+</div>
+@section scripts{
+
+
+<script type="text/javascript">
+    var uri = 'api/quizApi';
+    var quizList = [];
+    $(document).ready(function () {
+        // Send an AJAX request
+        $.getJSON(uri)
+            .done(function (data) {
+                quizList = data;
+                // On success, 'data' contains a list of products.
+                $.each(data, function (key, item) {
+                    
+                    $('<div><h3>' + item.Question + '</h3> <input   type="hidden"/> <div class="radio"> <label>  <input id="questions' + item.Id + '" name="questions[' + item.Id + '].Anwser" type="radio" value="true" /> True  </label>  </div> <div class="radio">  <label> <input id="questions' + item.Id + '" name="questions[' + item.Id + '].Anwser" type="radio" value="false" />False   </label>  </div>  </div>').appendTo($('#quizlist'));
+                });
+            });
+
+
+        $('#submitAnswers').click(function () {
+
+            $.each(quizList, function (key, item) {
+
+                item.Anwser = $('#questions' + item.Id + ':checked').val()
+            });
+
+            $.ajax({
+                type: "POST",
+                url: uri,
+                data: JSON.stringify(quizList),
+                success: function (data) {
+
+                    $('#quiz').hide();
+                    $('#result').show();
+                    $('#grade').html(data);
+
+                },
+                contentType: 'application/json',
+                dataType: 'json'
+            });
+           
+
+        })
+    });
+</script>
+}

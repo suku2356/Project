@@ -143,12 +143,24 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.0.0\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Http, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.0.0\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.0.0\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
@@ -248,13 +260,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Api\ValuesController1.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BookController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Api\QuizApiController.cs" />
+    <Compile Include="Controllers\LocationsController.cs" />
+    <Compile Include="Controllers\QuizController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -269,12 +286,19 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\aspnet-Introconduit1-20150408042616.mdf" />
+    <Content Include="App_Data\aspnet-Introconduit1-20150408042616_log.ldf">
+      <DependentUpon>aspnet-Introconduit1-20150408042616.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\texts\MVCForum.AddOns.xml" />
     <Content Include="App_Data\texts\MVCForum.SearchProvider.Lucene.xml" />
-    <Content Include="App_Data\texts\MVCForum.Web.xml" />
+    <Content Include="App_Data\texts\MVCForum.Web.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Content\books\bootstrap.min.css" />
+    <Content Include="Content\books\style.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\bootstrap\additional.css" />
     <Content Include="Content\css\bootstrap\bootstrap-responsive.css" />
     <Content Include="Content\css\bootstrap\bootstrap-responsive.min.css" />
@@ -328,14 +352,24 @@
     <Content Include="Content\css\markitup\sets\markdown\images\quotes.png" />
     <Content Include="Content\css\markitup\sets\markdown\style.css" />
     <Content Include="Content\css\markitup\style.css" />
-    <Content Include="Content\css\style.css" />
     <Content Include="Content\facebook.png" />
     <Content Include="Content\google.png" />
+    <Content Include="Content\images\1.jpg" />
+    <Content Include="Content\images\2.jpg" />
+    <Content Include="Content\images\3.jpg" />
+    <Content Include="Content\images\4.jpg" />
+    <Content Include="Content\images\5.jpg" />
     <Content Include="Content\img\1.jpg" />
     <Content Include="Content\img\2.jpg" />
-    <Content Include="Content\img\3.jpg" />
-    <Content Include="Content\img\4.jpg" />
-    <Content Include="Content\img\5.jpg" />
+    <Content Include="Content\img\Book\BiengYou.jpg" />
+    <Content Include="Content\img\Book\IntAdv.jpg" />
+    <Content Include="Content\img\Book\INtro.jpg" />
+    <Content Include="Content\img\Book\Quiet Book Cover.jpg" />
+    <Content Include="Content\img\Book\thinkingfastandslow.jpg" />
+    <Content Include="Content\img\contact\karthik.jpg" />
+    <Content Include="Content\img\contact\shyam.jpg" />
+    <Content Include="Content\img\contact\vishnu.jpg" />
+    <Content Include="Content\img\cosmos.jpg" />
     <Content Include="Content\img\forum\arrow_down.gif" />
     <Content Include="Content\img\forum\arrow_left.gif" />
     <Content Include="Content\img\forum\arrow_right.gif" />
@@ -450,6 +484,15 @@
     <Content Include="Content\img\forum\ucp_section.gif" />
     <Content Include="Content\img\glyphicons-halflings-white.png" />
     <Content Include="Content\img\glyphicons-halflings.png" />
+    <Content Include="Content\img\slider\int1.jpg" />
+    <Content Include="Content\img\slider\int2.jpg" />
+    <Content Include="Content\img\slider\int3.jpg" />
+    <Content Include="Content\img\slider\int4.jpg" />
+    <Content Include="Content\img\slider\int5.png" />
+    <Content Include="Content\img\slider\int6.jpg" />
+    <Content Include="Content\img\slider\int7.jpg" />
+    <Content Include="Content\img\tree_in_cosmos-1920x1080.jpg" />
+    <Content Include="Content\style.css" />
     <Content Include="Content\twitter.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -542,13 +585,17 @@
     <Content Include="Areas\Forum\Views\Account\LogOn.cshtml" />
     <Content Include="Areas\Forum\Views\Account\External.cshtml" />
     <Content Include="Areas\Forum\Views\Account\Activate.cshtml" />
-    <Content Include="ClassDiagram1.cd" />
+    <Content Include="Content\css\About.cshtml" />
+    <None Include="Properties\PublishProfiles\vishnuase - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\vishnuase - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\common.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery-1.7.2.min.js" />
+    <Content Include="Scripts\jquery-2.1.3.min.js" />
+    <Content Include="Scripts\jquery.cycle.all.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -607,14 +654,21 @@
     <Content Include="Views\Account\Manage.cshtml" />
     <Content Include="Views\Account\Register.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Account\Books.cshtml" />
+    <Content Include="Views\Account\_LayoutPage1.cshtml" />
     <Content Include="Views\Book\Index.cshtml" />
+    <Content Include="Views\Quiz\Index.cshtml" />
+    <Content Include="Views\Locations\Index.cshtml" />
+    <Content Include="Views\Home\Video.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="packages.config" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <PropertyGroup>

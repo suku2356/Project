@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-Introconduit1-20150408042616.mdf;Initial Catalog=aspnet-Introconduit1-20150408042616;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vishnu\\Desktop\\Introconduit1\\Introconduit1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="mvcForum.DataProvider.MainDB-Web.config Connection String" description="mvcForum.DataProvider.MainDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-Introconduit1-20150408042616.mdf;Initial Catalog=aspnet-Introconduit1-20150408042616;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vishnu\\Desktop\\Introconduit1\\Introconduit1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='mvcForum.DataProvider.MainDB']/@connectionString" />
+  </parameter>
+  <parameter name="Introconduit1.Models.ApplicationDbContext-Web.config Connection String" description="Introconduit1.Models.ApplicationDbContext Connection String used in web.config by the application to access the database." defaultValue="Introconduit1.Models.ApplicationDbContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vishnu\\Desktop\\Introconduit1\\Introconduit1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Introconduit1.Models.ApplicationDbContext']/@connectionString" />
+  </parameter>
+</parameters>

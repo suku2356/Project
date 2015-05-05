@@ -14,7 +14,7 @@ namespace Introconduit1.MvcForumIdentity {
 	public class IdentityBuilder : IDependencyBuilder {
 
 		public virtual void Configure(IDependencyContainer container) {
-			Database.SetInitializer<IdentityDbContext>(new CreateDatabaseIfNotExists<IdentityDbContext>());
+			Database.SetInitializer<IdentityDbContext>(null);
 
 			container.RegisterPerRequest<IContext, Context>();
 			container.RegisterPerRequest<DbContext, IdentityDbContext>(new Dictionary<String, Object> { { "nameOrConnectionString", ConfigurationManager.ConnectionStrings["mvcForum.DataProvider.MainDB"].ConnectionString } });

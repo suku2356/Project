@@ -8,11 +8,10 @@ namespace Introconduit1.Controllers
 {
     public class BookController : Controller
     {
-        //
-        // GET: /Book/
+        // GET: Book
         public ActionResult Index()
         {
             return View();
         }
-	}
+    }
 }
